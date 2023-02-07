@@ -3,6 +3,11 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        Etudiant et1=new Etudiant("1","14523698","salhi","saleh",25,12,335,"ALINFO10");
+        et1.setClasse("ALINFO2");
+        System.out.println(et1.getClasse());
+
+        System.out.println("Hello world!");
         Etudiant e1 = new Etudiant("1","09632949","moataz","trojette",15,15,100,"info2");
         System.out.println(e1.getClasse());
 
@@ -27,10 +32,17 @@ public class Main {
         System.out.println("The Second Class is " + e2);
         System.out.println("The Third Class is " + e3);
         System.out.println("The Forth Class is " + e4);
+        System.out.println("");
 
         Etudiant e15 = new Etudiant("1","09632949","moataz","trojette",15,15,100,"info2");
         System.out.println(e1.getClasse());
-        switch(e11) {
+
+        Personne p0 = new Personne("1","12121212","baligh" ,"othman" ,24);
+        p0.toString();
+
+        System.out.println("Hello Baligh othman!");
+        
+                switch(e11) {
             case ALINFO1:
                 System.out.println("ALINFO1");
                 break;
