@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
+
         Etudiant etudiant1 = new Etudiant("7000", "1001", "fadhel", "ben fadhel", 22,
         12, 454545, "ALINFO10");
         Etudiant etudiant2 = new Etudiant("7001", "1002", "amin", "ben amin", 23,
@@ -14,5 +15,16 @@ public class Main {
         list.add(etudiant2);
         list.add(etudiant3);
 
+        Enum_Niveau e1 = Enum_Niveau.ALINFO1;
+        Enum_Niveau e2 = Enum_Niveau.ALINFO2;
+        Enum_Niveau e3 = Enum_Niveau.ALINFO3;
+        Enum_Niveau e4 = Enum_Niveau.ALINFO4;
+
+        System.out.println("The First Class is " + e1);
+        System.out.println("The Second Class is " + e2);
+        System.out.println("The Third Class is " + e3);
+        System.out.println("The Forth Class is " + e4);
+
     }
+
 }
