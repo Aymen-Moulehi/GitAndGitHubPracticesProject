@@ -34,6 +34,11 @@ public class Main {
         System.out.println("The Forth Class is " + e4);
         System.out.println("");
 
+
+        Etudiant e16 = new Etudiant("2","12121212","baligh","othman",18,20,110,"info2");
+        System.out.println(e1.getClasse());
+
+
         Etudiant e15 = new Etudiant("1","09632949","moataz","trojette",15,15,100,"info2");
         System.out.println(e1.getClasse());
 
