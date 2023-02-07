@@ -1,11 +1,12 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Enseignant {
+public class Enseignant extends Personne{
     private List<Enseignant> ListEnseignant;
 
-    public Enseignant()
+    public Enseignant(String id, String cin, String nom, String prenom, int age)
     {
+        super(id,cin,nom,prenom,age);
         this.ListEnseignant = new ArrayList<>();
     }
     public void ajouterEnseignant(Enseignant e)
