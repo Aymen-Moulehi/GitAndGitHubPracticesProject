@@ -30,5 +30,17 @@ public class Main {
 
         Etudiant e15 = new Etudiant("1","09632949","moataz","trojette",15,15,100,"info2");
         System.out.println(e1.getClasse());
+        switch(e11) {
+            case ALINFO1:
+                System.out.println("ALINFO1");
+                break;
+            case ALINFO2:
+                System.out.println("ALINFO2");
+                break;
+            case ALINFO3:
+                System.out.println("ALINFO3");
+                break;
+        }
+
     }
 }
