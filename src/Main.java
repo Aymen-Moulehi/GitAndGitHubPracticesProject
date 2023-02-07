@@ -2,6 +2,9 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Hello world!");
+        Etudiant e1 = new Etudiant("1","09632949","moataz","trojette",15,15,100,"info2");
+        System.out.println(e1.getClasse());
 
         Etudiant etudiant1 = new Etudiant("7000", "1001", "fadhel", "ben fadhel", 22,
         12, 454545, "ALINFO10");
@@ -26,5 +29,4 @@ public class Main {
         System.out.println("The Forth Class is " + e4);
 
     }
-
 }
