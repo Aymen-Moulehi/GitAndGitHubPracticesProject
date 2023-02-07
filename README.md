@@ -1,4 +1,4 @@
-#Projet de pratique Git et GitHub
+# Projet de pratique Git et GitHub
 
 **Objectif :** Nous fournir une expérience pratique avec Git et GitHub et collaborer avec d'autres développeurs pour améliorer nos connaissances.
 
