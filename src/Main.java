@@ -23,21 +23,16 @@ public class Main {
         list.add(etudiant2);
         list.add(etudiant3);
 
-        Enum_Niveau e12 = Enum_Niveau.ALINFO1;
+        Enum_Niveau e11 = Enum_Niveau.ALINFO1;
         Enum_Niveau e2 = Enum_Niveau.ALINFO2;
         Enum_Niveau e3 = Enum_Niveau.ALINFO3;
         Enum_Niveau e4 = Enum_Niveau.ALINFO4;
 
-        System.out.println("The First Class is " + e1);
+        System.out.println("The First Class is " + e11);
         System.out.println("The Second Class is " + e2);
         System.out.println("The Third Class is " + e3);
         System.out.println("The Forth Class is " + e4);
         System.out.println("");
-
-
-        Etudiant e16 = new Etudiant("2","12121212","baligh","othman",18,20,110,"info2");
-        System.out.println(e1.getClasse());
-
 
         Etudiant e15 = new Etudiant("1","09632949","moataz","trojette",15,15,100,"info2");
         System.out.println(e1.getClasse());
@@ -46,6 +41,18 @@ public class Main {
         p0.toString();
 
         System.out.println("Hello Baligh othman!");
+        
+                switch(e11) {
+            case ALINFO1:
+                System.out.println("ALINFO1");
+                break;
+            case ALINFO2:
+                System.out.println("ALINFO2");
+                break;
+            case ALINFO3:
+                System.out.println("ALINFO3");
+                break;
+        }
 
     }
 }
