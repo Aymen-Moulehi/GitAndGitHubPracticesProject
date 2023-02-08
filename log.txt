@@ -1,0 +1,237 @@
+commit 9f855c2c2e2cb73951ebffab3ffb81ce4c888386
+Author: moham <nour.benahmed.6@gmail.com>
+Date:   Tue Feb 7 22:22:59 2023 +0100
+
+    resolving conflict
+
+commit cfdd4cfda456475ddc56e3aa176ec3c7f4a71357
+Merge: a8d9789 dd61ba3
+Author: moham <nour.benahmed.6@gmail.com>
+Date:   Tue Feb 7 22:22:41 2023 +0100
+
+    Merge branch 'master' into user/nourelhouda.benahmed
+    
+    # Conflicts:
+    #       src/Main.java
+
+commit a8d9789fa669b7d4c32da84de71d811462ff46d1
+Merge: 5478df1 8ae0c44
+Author: moham <nour.benahmed.6@gmail.com>
+Date:   Tue Feb 7 22:18:02 2023 +0100
+
+    Merge branch 'master' into user/nourelhouda.benahmed
+    
+    # Conflicts:
+    #       src/Main.java
+
+commit dd61ba3100e3adad7ea536a3e028b62005e9422f
+Merge: 8ae0c44 e25c42e
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 22:17:28 2023 +0100
+
+    Merge pull request #8 from Aymen-Moulehi/user/moataz.trojette
+    
+    PROMETHEE_1 :Classe Enseignant v3
+
+commit e25c42ec2a0ed3d947f2dbb96aba7928b68ea00b
+Author: moataztrojette <moataztrojette@gmail.com>
+Date:   Tue Feb 7 22:15:57 2023 +0100
+
+    PROMETHEE_1 :Classe Enseignant v8
+
+commit 2b4e81ba01cf6b498fd72b27c7310455a649a5dc
+Merge: f249662 d4f4561
+Author: moataztrojette <moataztrojette@gmail.com>
+Date:   Tue Feb 7 22:14:30 2023 +0100
+
+    Merge remote-tracking branch 'origin/user/moataz.trojette' into user/moataz.trojette
+    
+    # Conflicts:
+    #       src/Main.java
+
+commit f249662a062ed319bda08996227e6cee85f90517
+Author: moataztrojette <moataztrojette@gmail.com>
+Date:   Tue Feb 7 21:57:27 2023 +0100
+
+    PROMETHEE_1 :Classe Enseignant v6
+
+commit 8ae0c4489d212f3112d1b4b82b906d5ec4332164
+Merge: 5108bb6 d04a8a6
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 22:08:00 2023 +0100
+
+    Merge pull request #11 from Aymen-Moulehi/user/soulayma.mansouri
+    
+    adding Etudiant list to main
+
+commit d04a8a63c3f0e5d23bf16958e8b1b9740001111f
+Merge: 62ba48e 5108bb6
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 22:07:34 2023 +0100
+
+    Merge branch 'master' into user/soulayma.mansouri
+
+commit 62ba48e6d160cd6c622f872a973c4aa8fcf9a9db
+Author: Soulayma <soulaaymamansouri45@gmail.com>
+Date:   Tue Feb 7 22:00:21 2023 +0100
+
+    adding Etudiant list to main
+
+commit 5478df13400559a3385951a4e0c124ffb3bed7bd
+Author: moham <nour.benahmed.6@gmail.com>
+Date:   Tue Feb 7 22:00:06 2023 +0100
+
+    adding in main
+
+commit d4f4561a9dd35c365754951c8f3d75bac03181e4
+Author: moataztrojette <moataztrojette@gmail.com>
+Date:   Tue Feb 7 21:57:27 2023 +0100
+
+    PROMETHEE_1 :Classe Enseignant v3
+
+commit 2295b5730659beebbefcdd83ffa87a7e325b149c
+Author: moham <nour.benahmed.6@gmail.com>
+Date:   Tue Feb 7 21:57:21 2023 +0100
+
+    adding in main
+
+commit 5108bb6da9f192705d3fa48c58e45e17a1283fcf
+Merge: 9de567f bbd9699
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 21:56:30 2023 +0100
+
+    Merge pull request #7 from Aymen-Moulehi/user/Gheriani_Mohamed_
+    
+    Adding in main
+
+commit bbd9699c207309acf324e48ae03f2100f71ae101
+Author: DELL <gherianimohamed10@gmail.com>
+Date:   Tue Feb 7 21:55:07 2023 +0100
+
+    Adding in main
+
+commit 9de567fea1a93b02514f117b391c02e35ec722d2
+Merge: f7bb80d bc343c0
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 21:46:08 2023 +0100
+
+    Merge pull request #6 from Aymen-Moulehi/user/soulayma.mansouri
+    
+    adding Etudiant class to project
+
+commit bc343c0ac5426adf50b7ecd7dee584b067051547
+Author: Soulayma <soulaaymamansouri45@gmail.com>
+Date:   Tue Feb 7 21:44:31 2023 +0100
+
+    adding Etudiant class to project
+
+commit f7bb80d4c57e24bc8c5958003e0024dbc89e78e5
+Merge: 1d19dfe e1e1ee8
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 21:43:46 2023 +0100
+
+    Merge pull request #5 from Aymen-Moulehi/user/moataz.trojette
+    
+    PROMETHEE_1 :Classe Enseignant v2
+
+commit e1e1ee885947dfacc9cd7ed8e19cc40285228615
+Author: moataztrojette <moataztrojette@gmail.com>
+Date:   Tue Feb 7 21:41:01 2023 +0100
+
+    PROMETHEE_1 :Classe Enseignant v2
+
+commit 1d19dfe0ee3c2a716cbd9f40baa6e49243322636
+Merge: df590f3 a33cbdb
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 21:36:57 2023 +0100
+
+    Merge pull request #4 from Aymen-Moulehi/user/Gheriani_Mohamed_
+    
+    Adding Enum_Niveau
+
+commit df590f3dc5d57f31ff2434f65a3711ac6e9a180f
+Merge: 88069bf 20de7f6
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 21:36:39 2023 +0100
+
+    Merge pull request #3 from Aymen-Moulehi/user/moataz.trojette
+    
+    PROMETHEE_1 :Classe Enseignant
+
+commit 88069bf50c5c1bd5a14bb90e2d532b1ddef4f363
+Merge: 6127796 e096f19
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 21:36:12 2023 +0100
+
+    Merge pull request #2 from Aymen-Moulehi/user/baligh.othman/ClassePersonne
+    
+    add class personne
+
+commit 20de7f6fc005be75bbfdc02babbbc25cc168d19b
+Author: moataztrojette <moataztrojette@gmail.com>
+Date:   Tue Feb 7 21:35:17 2023 +0100
+
+    PROMETHEE_1 :Classe Enseignant
+
+commit a33cbdb33196431ac4771ab36b214435d60f753a
+Author: DELL <gherianimohamed10@gmail.com>
+Date:   Tue Feb 7 21:35:10 2023 +0100
+
+    Adding Enum_Niveau
+
+commit e096f197babb9d499230b20b9e6146a6af62b6d6
+Author: baligh8 <obaligh8@gmail.com>
+Date:   Tue Feb 7 21:34:40 2023 +0100
+
+    add class personne
+
+commit 6127796131d19a5fcb60a270f1f40c0fcfcbda0f
+Merge: 65684e0 14f7d30
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 21:34:26 2023 +0100
+
+    Merge pull request #1 from Aymen-Moulehi/user/nourelhouda.benahmed
+    
+    User/nourelhouda.benahmed
+
+commit 14f7d307945cfc3ce419bb2db3f07dbb2f8ee5c6
+Author: moham <nour.benahmed.6@gmail.com>
+Date:   Tue Feb 7 21:32:34 2023 +0100
+
+    Adding Enumeration Specialite
+
+commit 681fa48054b8e4504272542fcbdf4b76870f2bb6
+Author: moham <nour.benahmed.6@gmail.com>
+Date:   Tue Feb 7 21:32:20 2023 +0100
+
+    Adding Enumeration Specialite
+
+commit 9c6e0fe44fd54ec48e63562fb943f1b91bd8ff52
+Author: moham <nour.benahmed.6@gmail.com>
+Date:   Tue Feb 7 21:29:37 2023 +0100
+
+    Adding Enumeration Specialite
+
+commit 65684e07021d4efcabe100a4a8232ecce25d139b
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 21:21:23 2023 +0100
+
+    Update README.md
+
+commit 6505a8c4097ce6a22c6e9c1014a3690762496061
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 21:20:55 2023 +0100
+
+    Update README.md
+
+commit ccb1850d89a208eb82d22630445ffad19242c636
+Author: Aymen Moulehi <75182456+Aymen-Moulehi@users.noreply.github.com>
+Date:   Tue Feb 7 21:20:28 2023 +0100
+
+    Create README.md
+
+commit 1751e7549634e8cf01fa414d0b09e297348a2314
+Author: aymen <aymen.moulehi@outlook.com>
+Date:   Tue Feb 7 21:16:55 2023 +0100
+
+    Initial commit
